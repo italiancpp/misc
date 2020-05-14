@@ -38,7 +38,7 @@ DTSTAMP:20200514T085834Z
 DTSTART;TZID="W. Europe Standard Time":20200611T183000
 LAST-MODIFIED:20200514T085834Z
 LOCATION:Microsoft Teams Meeting
-ORGANIZER;CN="Arena Marco":mailto:Marco.Arena@tetrapak.com
+ORGANIZER;CN="Arena Marco":mailto:info@italiancpp.org
 PRIORITY:5
 SEQUENCE:0
 SUMMARY;LANGUAGE=it-va:Using vcpkg at work to manage your C/C++ libraries
